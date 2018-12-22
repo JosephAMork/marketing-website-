@@ -1,4 +1,4 @@
-# marketing-website-
+# marketing website
 [ this site for online marketing ] 
 first of all extract files and install database 
 you can upload 3 images for one item 
